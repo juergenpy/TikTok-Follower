@@ -1,7 +1,7 @@
 <div align="center">
 <h1>TikTok-Follower
 </h1>
-TokTok Follower /TikTok Free Follower / TikTok Pullbot / TikTok Stats
+TikTok Follower /TikTok Free Follower / TikTok Pullbot / TikTok Stats
 </div>
 
 --------------------------------------
