@@ -1,3 +1,3 @@
 import webbrowser
 
-webbrowser.open("https://t.me/juergennpy") # join the telegram channel to get it
+webbrowser.open("https://t.me/tikst0ck") # join the telegram channel 
